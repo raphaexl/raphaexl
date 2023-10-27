@@ -13,19 +13,17 @@ Here are some ideas to get you started: -->
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+- 🙋‍♂️ All about me is at **[ebatchas](https://ebatchas.com/)** yeah currently down 🫣
 
-- 🙋‍♂️ All about me is at **[My Website](https://ebatchas.com/)**
-
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 I’m currently working on `Revolutionizing Healthcare System in Africa`. **[Dokita](https://dokita.tech/)**
 
 - 🌱 I’m currently learning about `Django REST APIs with NextJS`
 
-- 👯 I’m looking to collaborate for `Dev Projects`
+- 👯 I'm looking to collaborate `on addressing Africa's challenges in the health tech and other tech industries`.
+
+- 👨‍💻 I'm Technology Consultant of **[LIASA](https://liasafrique.com/)** (Ligue autour de la santé Africaine), an organization aiming to unite African healthcare professionals and experts from various fields and countries. LIASA strives to address critical healthcare challenges in Africa through collaboration and collective efforts
 
 - 💬 Ask me about anything, From Web/Mobile Development to 3D Games & Applications Development :sweat_smile:
-
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
 - ⚡ Fun fact: I enjoy my free time playing guitar
 
@@ -44,7 +42,7 @@ Here are some ideas to get you started: -->
 
 ## ❤️ Let's get connected:
 
-<p><a href="https://twitter.com/ebatchas" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/essossolam-batchassi-1b0621173/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://soumyajitblogs.vercel.app/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/ebatchas" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+<p><a href="https://www.linkedin.com/in/essossolam-batchassi-1b0621173/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://twitter.com/ebatchas" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://https://www.dokita.tech/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/ebatchas" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
 
 ## 📊 My GitHub Data:

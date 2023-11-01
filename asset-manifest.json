@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.12525442.css",
+    "main.js": "/react-gh-pages/static/js/main.3e2fad4e.js",
+    "static/js/496.90683458.chunk.js": "/react-gh-pages/static/js/496.90683458.chunk.js",
+    "static/media/rt.png": "/react-gh-pages/static/media/rt.9fa38aaea05164340bef.png",
+    "static/media/corewar.png": "/react-gh-pages/static/media/corewar.02cd67e8b089e3a68371.png",
+    "static/media/gptic.png": "/react-gh-pages/static/media/gptic.27250bf022edf43c4b9a.png",
+    "static/media/BATCHASSI_EssossoLAM.pdf": "/react-gh-pages/static/media/BATCHASSI_EssossoLAM.058642994b0b3a67d5a9.pdf",
+    "static/media/tikotak.png": "/react-gh-pages/static/media/tikotak.09ce6723255e3157210a.png",
+    "static/media/home-main.svg": "/react-gh-pages/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/react-gh-pages/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/blog.png": "/react-gh-pages/static/media/blog.7d8b095f43f10f1120e4.png",
+    "static/media/npuzzle.png": "/react-gh-pages/static/media/npuzzle.9b15ace6e43dd51aa79d.png",
+    "static/media/home-bg.jpg": "/react-gh-pages/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/react-gh-pages/static/media/logo.2cd39fbf7a624c8d1ddf.png",
+    "static/media/avatar.svg": "/react-gh-pages/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/react-gh-pages/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.12525442.css.map": "/react-gh-pages/static/css/main.12525442.css.map",
+    "main.3e2fad4e.js.map": "/react-gh-pages/static/js/main.3e2fad4e.js.map",
+    "496.90683458.chunk.js.map": "/react-gh-pages/static/js/496.90683458.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12525442.css",
+    "static/js/main.3e2fad4e.js"
+  ]
+}

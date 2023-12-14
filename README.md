@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
 
 ## 👨🏻‍💻 About Me:
 
-- 🙋‍♂️ All about me is at **[ebatchas](https://ebatchas.com/)** yeah currently down 🫣
+- 🙋‍♂️ All about me is at **[ebatchas](https://ebatchas.com/)**
 
 - 🔭 I’m currently working on `Revolutionizing Healthcare System in Africa`. **[Dokita](https://dokita.tech/)**
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started: -->
 
 - 💬 Ask me about anything, From Web/Mobile Development to 3D Games & Applications Development :sweat_smile:
 
-- ⚡ Fun fact: I enjoy my free time playing guitar
+- ⚡ Fun fact: I enjoy my free time playing guitar and have a Youtube Channnel **[My Youtube Channel](https://www.youtube.com/@batch42/)**
 
 ## 🛠️ Technologies and Tools I use:
 
